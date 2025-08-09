@@ -1,6 +1,6 @@
 {
   "name": "yep-import-cost",
-  "private": true,
+  "pri": true,
   "version": "1.0.0",
   "type": "module",
   "scripts": {
